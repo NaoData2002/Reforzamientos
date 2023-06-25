@@ -1,0 +1,11 @@
+lista_vacia = []
+lista_vacia.append(12)
+lista_vacia.append(14)
+lista_vacia.append(53)
+lista_vacia.append(10.89)
+lista_vacia.append(123.45)
+lista_vacia.append(123.765)
+lista_vacia.append('Hola')
+lista_vacia.append('Adiós')
+lista_vacia.append('Buen día')
+print(lista_vacia)
